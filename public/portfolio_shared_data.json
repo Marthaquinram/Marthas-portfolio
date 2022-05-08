@@ -10,7 +10,7 @@
         },
         {
           "name": "linkedin",
-          "url": "https://www.instagram.com",
+          "url": "https://www.linkedin.com/in/martha-quintanilla-ramirez/",
           "class": "fab fa-linkedin"
         }
       ],
@@ -33,36 +33,18 @@
           "class": "devicon-angularjs-plain",
           "level": "80"
         },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90" 
-        },
+        
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         }
+        
       ]
     }
   }

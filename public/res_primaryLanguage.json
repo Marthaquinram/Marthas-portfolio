@@ -35,12 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "The Running Shoe Guide",
+        "startDate": "2022",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/therunningshoe/201-FinalProject.jpeg",
+          "images/portfolio/therunningshoe/201-Finalproject2.png",
+          "images/portfolio/therunningshoe/results.png",
+          "images/portfolio/therunningshoe/shoetypes.png"
         ],
         "url": "https://github.com",
         "technologies": [
