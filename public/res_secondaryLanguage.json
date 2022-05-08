@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Martha Quintanilla-Ramirez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Hola",
+      "description": "👋 Mi llamo Martha Quintanilla-Ramirez, tengo 28 anos. Soy un desarrollador de software con experiencia en finanzas en Seattle, WA! Antes de cambiar de carrera, trabajé para una cooperativa de ahorro y crédito donde era especialista en soporte de experiencia minorista. Ayudé a más de 100 banqueros personales con transacciones complejas, utilizando mis habilidades para resolver problemas y mi atención a los detalles. Si bien esta carrera me ha enseñado mucho y ha sido gratificante, decidí cambiar de rumbo y convertirme en desarrollador de software para desafiarme a mí mismo. Quiero demostrar que puedo tener éxito en el mundo de la tecnología y romper cualquier mito/estereotipo con respecto a las mujeres en la industria de la tecnología. Es esencial traer diversidad a cualquier equipo con el que trabajo para empoderar a otras personas de todos los ámbitos de la vida. La tecnología está evolucionando rápidamente y quiero ser parte del crecimiento y contribuir en todo lo que pueda. Gracias 💜",
       "section_name": {
         "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "projects": "Proyectos",
+        "skills": "Habilidades",
+        "experience": "Experiencia"
       }
     },
     "projects": [
