@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Martha Quintanilla-Ramirez",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Junior Software Developer Specialized in Javascript" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Marthaquinram",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
+          "name": "linkedin",
           "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "martha.jpeg"
     },
     "skills": {
       "icons": [
@@ -29,14 +29,14 @@
           "level": "95"
         },
         {
-          "name": "Angular",
+          "name": "React",
           "class": "devicon-angularjs-plain",
           "level": "80"
         },
         {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
-          "level": "90"
+          "level": "90" 
         },
         {
           "name": "JavaScript",
