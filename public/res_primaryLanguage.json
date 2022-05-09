@@ -11,12 +11,13 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "About Me",
+        "startDate": "2022",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/201-AboutMe.png",
+          "images/portfolio/animal-shelter/busmall2.png",
+          "images/portfolio/animal-shelter/BusMallData.png"
         ],
         "url": "",
         "technologies": [
@@ -37,14 +38,15 @@
       {
         "title": "The Running Shoe Guide",
         "startDate": "2022",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "The Running Shoe Guide walks the users through a questionaire to pair them up with 3 different pairs of running shoes  based on their selection. Used grid layout and Css to design the page, and used Javascript for the functionality. We created an information page to show case the difference in shoe comfortability. :)",
         "images": [
           "images/portfolio/therunningshoe/201-FinalProject.jpeg",
           "images/portfolio/therunningshoe/201-Finalproject2.png",
           "images/portfolio/therunningshoe/results.png",
           "images/portfolio/therunningshoe/shoetypes.png"
         ],
-        "url": "https://github.com",
+        
+        "url": "https://derekjdoug.github.io/running-shoe-guide/m",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,10 +57,36 @@
             "name": "JavaScript"
           }
         ]
+        
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "About Me",
+        "startDate": "2022",
+        "description": ".",
+        "images": [
+          "images/portfolio/animal-shelter/",
+          "images/portfolio/animal-shelter/",
+          "images/portfolio/animal-shelter/"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "301 Project Place holder",
+        "startDate": "2022",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
           "images/portfolio/adventure/p1.jpg",

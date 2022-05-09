@@ -2,6 +2,7 @@
 @import '/src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
 
+
 html {
 	font-size: 62.5%;
 	-webkit-font-smoothing: antialiased;
@@ -27,6 +28,7 @@ html {
 .header-icon {
 	height: 150px;
 	width: 150px;
+	color:#2F4C4C;
 }
 
 header {
@@ -38,7 +40,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color:  #F1C1BD ;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -231,7 +233,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #CA6C68;
 }
 
 .experience-icon {
@@ -353,7 +355,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #CA6C68;
 	padding-bottom: 5%;
 }
 
@@ -389,11 +391,12 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #F1C1BD;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
 	padding-bottom: 10%;
+
 }
 
 .section-title {
@@ -414,7 +417,7 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
+	background: #DFDADE;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
