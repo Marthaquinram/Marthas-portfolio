@@ -11,7 +11,7 @@
     },
     "projects": [
       {
-        "title": "About Me",
+        "title": "About Me/Busmall",
         "startDate": "2022",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
@@ -22,16 +22,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "Css"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       },
@@ -49,43 +49,22 @@
         "url": "https://derekjdoug.github.io/running-shoe-guide/m",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
         
       },
       {
-        "title": "About Me",
-        "startDate": "2022",
-        "description": ".",
-        "images": [
-          "images/portfolio/animal-shelter/",
-          "images/portfolio/animal-shelter/",
-          "images/portfolio/animal-shelter/"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "301 Project Place holder",
+        "title": "Project Place holder",
         "startDate": "2022",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
@@ -112,36 +91,30 @@
     "experience": [
       {
         "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "title": "Fullstack Developer",
+        "years": "2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Javascript 2022"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
+          "React",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML",
+          "CSS"
+          
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "",
+        "title": "",
+        "years": "",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          ""
+          
         ]
       }
     ]

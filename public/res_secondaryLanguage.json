@@ -11,46 +11,53 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "About Me/Busmall",
+        "startDate": "2022",
         "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/201-AboutMe.png",
+          "images/portfolio/animal-shelter/busmall2.png",
+          "images/portfolio/animal-shelter/BusMallData.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "Css"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "The Running Shoe Guide",
+        "startDate": "2022",
+        "description": "La Guía de zapatillas para correr guía a los usuarios a través de un cuestionario para emparejarlos con 3 pares diferentes de zapatillas para correr según su selección. Usé el diseño de cuadrícula y Css para diseñar la página, y usé Javascript para la funcionalidad. Creamos una página de información para mostrar la diferencia en la comodidad del calzado. :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/therunningshoe/201-FinalProject.jpeg",
+          "images/portfolio/therunningshoe/201-Finalproject2.png",
+          "images/portfolio/therunningshoe/results.png",
+          "images/portfolio/therunningshoe/shoetypes.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-css3-plain",
+            "name": "Css"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       },
@@ -82,19 +89,15 @@
     "experience": [
       {
         "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "title": "Fullstack Developer",
+        "years": "2022 - presente",
         "mainTech": [
-          "Angular 8/9/10"
+          "Javascript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "HTML",
+          "CSS"
         ]
       },
       {
