@@ -1,119 +1,119 @@
 {
-    "basic_info": {
-      "description_header": "Hola",
-      "description": "👋 Mi llamo Martha Quintanilla-Ramirez, tengo 28 anos. Soy un desarrollador de software con experiencia en finanzas en Seattle, WA! Antes de cambiar de carrera, trabajé para una cooperativa de ahorro y crédito donde era especialista en soporte de experiencia minorista. Ayudé a más de 100 banqueros personales con transacciones complejas, utilizando mis habilidades para resolver problemas y mi atención a los detalles. Si bien esta carrera me ha enseñado mucho y ha sido gratificante, decidí cambiar de rumbo y convertirme en desarrollador de software para desafiarme a mí misma. Quiero demostrar que puedo tener éxito en el mundo de la tecnología y romper cualquier mito/estereotipo con respecto a las mujeres en la industria de la tecnología. Es esencial traer diversidad a cualquier equipo con el que trabajo para empoderar a otras personas de todos los ámbitos de la vida. La tecnología está evolucionando rápidamente y quiero ser parte del crecimiento y contribuir en todo lo que pueda. Gracias 💜",
-      "section_name": {
-        "about": "Sobre Mí",
-        "projects": "Proyectos",
-        "skills": "Habilidades",
-        "experience": "Experiencia"
-      }
+  "basic_info": {
+    "description_header": "Hola",
+    "description": "👋 Mi nombre es Martha Quintanilla-Ramirez, soy desarrolladora de software especializada en JavaScript con experiencia en finanzas y servicio al cliente. Ayudé y entrené a más de 100 banqueros personales revisando documentos de órdenes judiciales y revisando solicitudes de préstamos. Convertirse en desarrollador de software significa que puedo desafiarme a mí mismo de nuevas maneras. Como latina, quiero mostrar mis habilidades y cerrar la brecha entre las comunidades de color y la industria tecnológica. Para mí es importante aportar diversidad a cualquier equipo con el que trabajo para empoderar a personas de todos los ámbitos de la vida. La tecnología está evolucionando rápidamente y quiero ser parte del crecimiento y contribuir en todo lo que pueda. Mentor Connect es una aplicación que mi equipo y yo diseñamos para jóvenes desatendidos, brindándoles un servicio para conectarse con un mentor en tecnología para guiarlos al principio de su educación. Espero tener un impacto en cualquier empresa con la que trabajo.Gracias 💜",
+    "section_name": {
+      "about": "Sobre Mí",
+      "projects": "Proyectos",
+      "skills": "Habilidades",
+      "experience": "Experiencia"
+    }
+  },
+  "projects": [
+    {
+      "title": "About Me/Busmall",
+      "startDate": "2022",
+      "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+      "images": [
+        "images/portfolio/animal-shelter/201-AboutMe.png",
+        "images/portfolio/animal-shelter/busmall2.png",
+        "images/portfolio/animal-shelter/BusMallData.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "About Me/Busmall",
-        "startDate": "2022",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-        "images": [
-          "images/portfolio/animal-shelter/201-AboutMe.png",
-          "images/portfolio/animal-shelter/busmall2.png",
-          "images/portfolio/animal-shelter/BusMallData.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "Javascript"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "Css"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          }
-        ]
-      },
-      {
-        "title": "The Running Shoe Guide",
-        "startDate": "2022",
-        "description": "La Guía de zapatillas para correr guía a los usuarios a través de un cuestionario para emparejarlos con 3 pares diferentes de zapatillas para correr según su selección. Usé el diseño de cuadrícula y Css para diseñar la página, y usé Javascript para la funcionalidad. Creamos una página de información para mostrar la diferencia en la comodidad del calzado. :)",
-        "images": [
-          "images/portfolio/therunningshoe/201-FinalProject.jpeg",
-          "images/portfolio/therunningshoe/201-Finalproject2.png",
-          "images/portfolio/therunningshoe/results.png",
-          "images/portfolio/therunningshoe/shoetypes.png"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "Javascript"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "Css"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Fullstack Developer",
-        "years": "2022 - presente",
-        "mainTech": [
-          "Javascript"
-        ],
-        "technologies": [
-          "JavaScript",
-          "HTML",
-          "CSS"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "The Running Shoe Guide",
+      "startDate": "2022",
+      "description": "La Guía de zapatillas para correr guía a los usuarios a través de un cuestionario para emparejarlos con 3 pares diferentes de zapatillas para correr según su selección. Usé el diseño de cuadrícula y Css para diseñar la página, y usé Javascript para la funcionalidad. Creamos una página de información para mostrar la diferencia en la comodidad del calzado. :)",
+      "images": [
+        "images/portfolio/therunningshoe/201-FinalProject.jpeg",
+        "images/portfolio/therunningshoe/201-Finalproject2.png",
+        "images/portfolio/therunningshoe/results.png",
+        "images/portfolio/therunningshoe/shoetypes.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2015",
+      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DefOpenSource",
+      "title": "Fullstack Developer",
+      "years": "2022 - presente",
+      "mainTech": [
+        "Javascript"
+      ],
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Stażystka",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "Swagger",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}
