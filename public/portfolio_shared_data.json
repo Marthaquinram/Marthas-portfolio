@@ -1,50 +1,50 @@
 {
-    "basic_info": {
-      "name": "Martha Quintanilla-Ramirez",
-      "titles": [ "Junior Software Developer Specialized in Javascript" ],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com/Marthaquinram",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "linkedin",
-          "url": "https://www.linkedin.com/in/martha-quintanilla-ramirez/",
-          "class": "fab fa-linkedin"
-        }
-      ],
-      "image": "martha.jpeg"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "React",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        }
-        
-      ]
-    }
+  "basic_info": {
+    "name": "Martha Quintanilla-Ramirez",
+    "titles": [
+      "Junior Software Developer Specialized in Javascript"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Marthaquinram",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/martha-quintanilla-ramirez/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "martha.jpeg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "React",
+        "class": "devicon-angularjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      }
+    ]
   }
+}

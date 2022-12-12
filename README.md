@@ -31,6 +31,19 @@ Estimate of time needed to complete: 60 mins
 
 Start time: 9pm
 
-Finish time: 
+Finish time: 10pm
 
-Actual time needed to complete: 
+Actual time needed to complete: 1 hour
+
+
+
+Number and name of feature: 3-5
+
+Estimate of time needed to complete: 60 mins
+Author: Martha , class help.
+
+Start time: 830pm
+
+Finish time: 1030pm
+
+Actual time needed to complete: 2 hour
